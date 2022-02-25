@@ -1,4 +1,4 @@
-<h2> Hello welcome <<i>coders</i>></h2>
+<h2> Hello welcome <<i>coders makers</i>></h2>
 
 <img align='right' src='https://images.squarespace-cdn.com/content/v1/5c78d4cffb22a54fe99b0689/1567147872947-3EZ6IREQBWW0516CSH01/iot.gif' width='300"'>
 

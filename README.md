@@ -26,7 +26,7 @@ I am Naman. I am from Moradabad, Uttar Pradesh and currently doing my High Schoo
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code><br>
-<code><img width="10%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F184988%2Farduino&psig=AOvVaw3_F7g6t_q78ohykDhNAJlR&ust=1645876899441000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICVrbLnmvYCFQAAAAAdAAAAABAD"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
 
 
 </p>

@@ -10,7 +10,7 @@ I am Naman. I am from Moradabad, Uttar Pradesh and currently doing my High Schoo
 ## 💻 Projects
 * IoT based Slack Status Updater
 * IoT based IR blaster For Set-Top box.
-* 
+* .....
 ## ⚡ Technologies 
 - Front-end development using **HTML,CSS**
 - Backend development using **Firebase,Blynk**

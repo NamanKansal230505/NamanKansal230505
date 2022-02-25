@@ -25,9 +25,9 @@ I am Naman. I am from Moradabad, Uttar Pradesh and currently doing my High Schoo
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code><br>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/ardiuno/ardiuno-ar21.svg"></code>
 
-<br />
 
 </p>
 

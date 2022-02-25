@@ -18,7 +18,7 @@ I am Naman. I am from Moradabad, Uttar Pradesh and currently doing my High Schoo
 - Backend development using **Firebase,Blynk**
 - Ide worked with **Ardiuno,Brackets,Pycharm**
 - Development Boards **Ardiuno Uno,Esp8266,Esp01**
-- Solving Data structure and algorithm questions in **Python**
+- Solving Data structure and algorithm questions in **Python/Java**
 
 #### :computer: Programming languages and tools: 
 <p>

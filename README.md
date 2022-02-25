@@ -20,6 +20,16 @@ I am Naman. I am from Moradabad, Uttar Pradesh and currently doing my High Schoo
 - Development Boards **Ardiuno Uno,Esp8266,Esp01**
 - Solving Data structure and algorithm questions in **Python**
 
+#### :computer: Programming languages and tools: 
+<p>
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<br />
+
+</p>
+
 ## 👋 Reach out to me 
 - 💬 Ask me about anything.
 - 💎 Fun fact: You lose automatically if you dont try.

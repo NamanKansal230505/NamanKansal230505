@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kansalnaman23@gmail.com)
 
 
-I am Naman. I am from Moradabad, Uttar Pradesh and currently doing my High School 🏫. I am a tech enthusiast and love making unique IoT projects. I have made many projects but never published them publicly. Now I will host my projects on github so you all can make it.
+<p>I am Naman. I am from Moradabad, Uttar Pradesh and currently doing my High School 🏫. I am a tech enthusiast and love making unique IoT projects. I have made many projects but never published them publicly. Now I will host my projects on github so you all can make it.</p>
 
 ## 💻 Projects
 * <a href="https://github.com/NamanKansal230505/IoT-slack-status" >IoT based Slack Status Updater</a>

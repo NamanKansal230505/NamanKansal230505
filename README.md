@@ -1,6 +1,6 @@
 <h1 align="center">Hi coders/makers/Innovators, I'm Naman Kansal<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align='right' src='https://images.squarespace-cdn.com/content/v1/5c78d4cffb22a54fe99b0689/1567147872947-3EZ6IREQBWW0516CSH01/iot.gif' width="200">
+<img align='right' src='https://images.squarespace-cdn.com/content/v1/5c78d4cffb22a54fe99b0689/1567147872947-3EZ6IREQBWW0516CSH01/iot.gif' width="300">
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NamanKansal230505)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naman-kansal-372592211/)

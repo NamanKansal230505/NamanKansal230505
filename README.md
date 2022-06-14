@@ -2,13 +2,14 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NamanKansal230505)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naman-kansal-372592211/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kansalnaman23@gmail.com)
+
 <div class='container2'>
         <div class="left">
             <img align='right' src='https://images.squarespace-cdn.com/content/v1/5c78d4cffb22a54fe99b0689/1567147872947-3EZ6IREQBWW0516CSH01/iot.gif' class='iconDetails' width="300">
         </div>  
     <div   class="right" >
     I am Naman. I am from Moradabad, Uttar Pradesh and currently doing my High School 🏫. I am a tech enthusiast and love making unique IoT projects. I have made many projects but never published them publicly. Now I will host my projects on github so you all can make it.
-    <div style="font-size:.7em;width:160px;float:left;">fine location, GPS, coarse location</div>
+    <div style="font-size:.7em;width:160px;float:left;"></div>
     <div style="float:right;font-size:.7em">0 mins ago</div>
     </div>
 </div>

@@ -14,7 +14,7 @@
     <div style="float:right;font-size:.7em"></div>
     </div>
 </div>
-
+<br><br>
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NamanKansal230505)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naman-kansal-372592211/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kansalnaman23@gmail.com)

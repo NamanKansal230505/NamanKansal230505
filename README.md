@@ -1,7 +1,6 @@
 <h1 align="center">Hi coders/makers/Innovators, I'm Naman Kansal<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NamanKansal230505)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naman-kansal-372592211/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kansalnaman23@gmail.com)
+
 
 <div class='container2'>
         <div class="left">

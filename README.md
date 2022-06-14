@@ -1,4 +1,7 @@
 <h1 align="center">Hi coders/makers/Innovators, I'm Naman Kansal<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NamanKansal230505)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naman-kansal-372592211/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kansalnaman23@gmail.com)
 <div class='container2'>
         <div class="left">
             <img align='right' src='https://images.squarespace-cdn.com/content/v1/5c78d4cffb22a54fe99b0689/1567147872947-3EZ6IREQBWW0516CSH01/iot.gif' class='iconDetails' width="300">
@@ -16,7 +19,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kansalnaman23@gmail.com)
 
 
-<p align="justify">I am Naman. I am from Moradabad, Uttar Pradesh and currently doing my High School 🏫. I am a tech enthusiast and love making unique IoT projects. I have made many projects but never published them publicly. Now I will host my projects on github so you all can make it.</p>
+
 
 ## 💻 Projects
 * <a href="https://github.com/NamanKansal230505/IoT-slack-status" >IoT based Slack Status Updater</a>

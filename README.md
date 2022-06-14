@@ -1,7 +1,7 @@
 <h1 align="center">Hi coders/makers/Innovators, I'm Naman Kansal<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=High+School+Student;IoT+Enthusiast;Innovator;coder&center=true&width=500&height=50"></a>
 </p>
 
 <div class='container2'>
@@ -14,7 +14,6 @@
     <div style="float:right;font-size:.7em">0 mins ago</div>
     </div>
 </div>
-<img align='right' src='https://images.squarespace-cdn.com/content/v1/5c78d4cffb22a54fe99b0689/1567147872947-3EZ6IREQBWW0516CSH01/iot.gif' width="300">
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NamanKansal230505)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naman-kansal-372592211/)

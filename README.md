@@ -1,7 +1,7 @@
 <h1 align="center">Hi coders/makers/Innovators, I'm Naman Kansal<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div class='container2'>
         <div class="left">
-            <img align='right' src='https://images.squarespace-cdn.com/content/v1/5c78d4cffb22a54fe99b0689/1567147872947-3EZ6IREQBWW0516CSH01/iot.gif' class='iconDetails'>
+            <img align='right' src='https://images.squarespace-cdn.com/content/v1/5c78d4cffb22a54fe99b0689/1567147872947-3EZ6IREQBWW0516CSH01/iot.gif' class='iconDetails' width="300">
         </div>  
     <div   class="right" >
     I am Naman. I am from Moradabad, Uttar Pradesh and currently doing my High School 🏫. I am a tech enthusiast and love making unique IoT projects. I have made many projects but never published them publicly. Now I will host my projects on github so you all can make it.

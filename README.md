@@ -34,8 +34,7 @@ Naman Kansal is now seeking new opportunities to further enhance his skills and 
 
 ## 💻 Projects
 * <a href="https://github.com/NamanKansal230505/IoT-slack-status" >IoT based Slack Status Updater</a>
-* IoT based IR blaster For Set-Top box.
-* .....
+
 ## ⚡ Technologies 
 - Front-end development using **HTML,CSS**
 - Backend development using **Firebase,Blynk**
